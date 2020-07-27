@@ -1,16 +1,4 @@
 ---
-title: ''
-author: "Jacob Kastl"
-date: "7/27/2020"
-output: html_document
----
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
-
-
-
----
 title: "PACTA_analysis - New config file: project_settings"
 description: |
   This post outlines the changes of the workflow in the PACTA_analysis repository. Everyone who works with this repository is encouraged to read this.
@@ -41,15 +29,15 @@ knitr::opts_chunk$set(
 )
 ```
 
-**Target Audience:**
+##Target Audience:
 
 Everyone who uses the PACTA_analysis script for their projects.
 
-**What changed:**
+##What changed:
 
 The workflow for initializing a project has changed. A new required config file must be used and was added to the repo.
 
-**Specifics:**
+##Specifics:
 
 
 Project wide settings should be set in the file "project_settings.yml", prior to project initialization: 
