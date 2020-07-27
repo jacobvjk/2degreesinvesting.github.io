@@ -29,15 +29,15 @@ knitr::opts_chunk$set(
 )
 ```
 
-##Target Audience:
+## Target Audience:
 
 Everyone who uses the PACTA_analysis script for their projects.
 
-##What changed:
+## What changed:
 
 The workflow for initializing a project has changed. A new required config file must be used and was added to the repo.
 
-##Specifics:
+## Specifics:
 
 
 Project wide settings should be set in the file "project_settings.yml", prior to project initialization: 
