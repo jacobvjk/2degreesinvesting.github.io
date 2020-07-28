@@ -11,7 +11,7 @@ output:
     self_contained: false
 categories:
   - programming
-  - pacta_analysis
+  - PACTA_analysis
 twitter:
   site: "@JacKastl"
   creator: "@JacKastl"
